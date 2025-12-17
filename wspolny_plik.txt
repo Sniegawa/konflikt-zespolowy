@@ -1,2 +1,3 @@
 Tekst poczatkowy
 Lepsza linia tekstu StudentaB
+Moja linia tekstu Studenta A
